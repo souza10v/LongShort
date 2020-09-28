@@ -12,3 +12,14 @@
 <p>Se um investidor que vendeu 100 ações da PETR4 sem ainda possuir essas ações é considerado vendido, ou descoberto, em 100 ações. O investidor vendido deve então alugar essas 100 ações no mercado devendo pagar taxas de aluguel a corretora, ao propietario da ação do qual está sendo alugado e a B3. Este contrato tem uma data pré definida que usalmente é um mês, na data de liquidação o locatário deve a obrigação de comprar as ações no mercado para entregar caso isso não ocorra o contratato é renovado. Para esse tipo de operação o investidor deve possuir uma <b>conta de margem</b> com a corretora, a qual deve ser anteriormente alocada com ações, renda fixa ou dinheiro. </p>
 
 <h3> Tipos de Long & Short </h3>
+
+<dl> 
+   <dt>Intrasetoriais</dt> 
+   <dd>Linguagem de marcação de texto</dd> 
+   <dt>Intersetoriais</dt> 
+   <dd>Usado para formatação de documentos</dd> 
+   <dt>Ordinária e Preferencial (ON e PN)</dt> 
+   <dd>Usado para formatação de documentos</dd> 
+   <dt>Controlada e Controladora</dt> 
+   <dd>Usado para formatação de documentos</dd> 
+</dl>
