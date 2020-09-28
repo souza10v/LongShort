@@ -17,7 +17,7 @@
    <dt>Ordinária e Preferencial (ON e PN)</dt> 
    <dd>A operação de compra e venda é montanda entre ações de uma mesma empresa, apresentando assim um risco mais baixo. Tem-se por exemplo Petrobras ON e Petrobras PN. </dd> 
    <dt>Controlada e Controladora</dt> 
-   <dd>Diversas empresas na bolsa tem controladoras também listas e há casos de empresas que detem uma quantidade significativa de ações de um certa empresa. Isso permite que seus resultados de perfomances sejam bem similares. Como exemplo Banco Itáu e Itaúsa.  </dd> 
+   <dd>Diversas empresas na bolsa tem controladoras também listas e há casos de empresas que detem uma quantidade significativa de ações de um certa empresa. Isso permite que seus resultados de perfomances sejam bem similares. Como exemplo Banco Itaú e Itaúsa.  </dd> 
    <dt>Intrasetoriais</dt> 
    <dd>Neste tipo de operação a correlação de preços é feita entre duas empresas que atuam no mesmo setor. Como por exemplo, atuantes do setor bancário como Banco Itaú e Banco Bradesco. </dd> 
    <dt>Intersetoriais</dt> 
