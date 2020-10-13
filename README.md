@@ -6,7 +6,6 @@
 
 <p>Uma posição comprada, significa que o investidor comprou e possui essas ações. Por exemplo, um investidor que possui 100 ações de Petrobras em seu portfólio é considerado comprado em 100 ações. Este investidor pagou integralmente o custo de propriedade das ações.
   
-  
 <h3> Posição
   Short/Vendida </h3>
 
@@ -22,16 +21,11 @@
    <dt>Intrasetoriais</dt> 
    <dd>Neste tipo de operação a correlação de preços é feita entre duas empresas que atuam no mesmo setor. Como por exemplo, atuantes do setor bancário como Banco Itaú e Banco Bradesco. </dd> 
   
-  
    <dt>Intersetoriais</dt> 
-   <dd>Esta operação ocorre entre empresas que atuam em ramos diferentes como mineração e varejo. Isto torna uma operação de maior risco, devendo haver um conhecimento aprofundado de mercado, no entanto, devido ao risco intrínseco de operação, pode-se ter retornos maiores. 
-  
-  Exemplo pode ser Vale do Rio Doce e Via Varejo. </dd> 
+   <dd>Esta operação ocorre entre empresas que atuam em ramos diferentes como mineração e varejo. Isto torna uma operação de maior risco, devendo haver um conhecimento aprofundado de mercado, no entanto, devido ao risco intrínseco de operação, pode-se ter retornos maiores. Exemplo pode ser Vale do Rio Doce e Via Varejo. </dd> 
 
 </dl>
 
 <h3> Garantia para venda descoberta </h3>
 
-<p>Como dito anteriormente, a posição vendida puxa uma margem da correta, sendo assim necessário utlizar uma garantia deposita na B3. Essa garantia pode ser estabelicida por meio de alocação de investimentos de renda fixa como CDB e títulos públicos, renda varíavel como ações em sua custodia na corretora e por fima a alocagem pode ser feito por meio de dinheiro. É importante ressaltar que cada corretora trabalha de uma maneira diferente, isto é, cada uma define o que está aceita como garantia, portanto é de suma importância entrar em contato previo para evitar
-  
-  problemas futuros.</p>
+<p>Como dito anteriormente, a posição vendida puxa uma margem da correta, sendo assim necessário utlizar uma garantia deposita na B3. Essa garantia pode ser estabelicida por meio de alocação de investimentos de renda fixa como CDB e títulos públicos, renda varíavel como ações em sua custodia na corretora e por fima a alocagem pode ser feito por meio de dinheiro. É importante ressaltar que cada corretora trabalha de uma maneira diferente, isto é, cada uma define o que está aceita como garantia, portanto é de suma importância entrar em contato previo para evitar problemas futuros.</p>
