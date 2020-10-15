@@ -28,5 +28,4 @@
 
 <h3> Garantia para venda descoberta </h3>
 
-<p>Como dito anteriormente, a posição vendida puxa uma margem da correta, sendo assim necessário utlizar uma garantia deposita na B3. Essa garantia pode ser estabelicida por meio de alocação de investimentos de renda fixa como CDB e títulos públicos, renda varíavel como ações em sua custodia na corretora e por fima a alocagem pode ser feito por meio de dinheiro. É importante ressaltar que cada corretora trabalha de uma maneira diferente, isto é, cada uma define o que está aceita como garantia, 
-  portanto é de suma importância entrar em contato previo para evitar problemas futuros.</p>
+<p>Como dito anteriormente, a posição vendida puxa uma margem da correta, sendo assim necessário utlizar uma garantia deposita na B3. Essa garantia pode ser estabelicida por meio de alocação de investimentos de renda fixa como CDB e títulos públicos, renda varíavel como ações em sua custodia na corretora e por fima a alocagem pode ser feito por meio de dinheiro. É importante ressaltar que cada corretora trabalha de uma maneira diferente, isto é, cada uma define o que está aceita como garantia, portanto é de suma importância entrar em contato previo para evitar problemas futuros.</p>
