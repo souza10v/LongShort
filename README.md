@@ -35,5 +35,5 @@
 
 <p> A correlação de dois ativos é calculada utilizando coeficiente de correlação de Pearson. Permitindo identificar assim a correlação númerica das ações estudadas, em outras palavras, identifica-se quanto a primeira ação A depende ou independe da ação B nas negociações do mercado.
   
-  
+![alt text](https://github.com/souza10v/LongShort/blob/master/eq1.gif?raw=true)
  
