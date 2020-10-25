@@ -33,7 +33,10 @@
 
 <h3> Idenfiticando a correlação entre dois ativos </h3>
 
-<p> A correlação de dois ativos é calculada utilizando coeficiente de correlação de Pearson. Permitindo identificar assim a correlação númerica das ações estudadas, em outras palavras, identifica-se quanto a primeira ação A depende ou independe da ação B nas negociações do mercado.
+<p> A correlação de dois ativos é calculada utilizando coeficiente de correlação de Pearson. Permitindo identificar assim a correlação númerica das ações estudadas, em outras palavras, identifica-se quanto a primeira ação A depende ou independe da ação B nas negociações do mercado, se o ativo A sobe o B também sobe, e assim se o B sobe o A também. A equação a seguir identifica a correlação Correl(X,Y), onde um valor acima  ou igual a 0,9 (90%) representa que a variação entre dois ativos está muito próxima. </p>
   
-![alt text](https://github.com/souza10v/LongShort/blob/master/eq1.gif?raw=true)
+<center> ![alt text](https://github.com/souza10v/LongShort/blob/master/eq1.gif?raw=true) </center>
+
+ <!-- colocar o que é cada variável--> 
  
+<p> A quantidade de períodos avalidas, isto é, o número de pregões, dependerá de quantos o usuário definir, porém usualmente os valores analisados de periodos são de 45 e 90 dias.  </p>
