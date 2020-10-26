@@ -37,6 +37,7 @@
   
 ![alt text](https://github.com/souza10v/LongShort/blob/master/images/eq1.gif?raw=true)
 
+<p> Onde as variavéis são, x e y as posições avaliadas, e -x- (x barra superior) e -y- (y barra superior), as médias aos referidos períodos analisados. 
  <!-- colocar o que é cada variável--> 
  
 <p> A quantidade de períodos avalidas, isto é, o número de pregões, dependerá de quantos o usuário definir, porém usualmente os valores analisados de periodos são de 45 e 90 dias.  </p>
