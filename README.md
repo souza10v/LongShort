@@ -41,4 +41,5 @@
  <!-- colocar o que é cada variável--> 
  
 <p> A quantidade de períodos avalidas, isto é, o número de pregões, dependerá de quantos o usuário definir,
-  porém usualmente os valores analisados de períodos são de 45 e 90 dias.  </p>
+  porém 
+  usualmente os valores analisados de períodos são de 45 e 90 dias.  </p>
