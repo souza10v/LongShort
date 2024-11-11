@@ -1,3 +1,5 @@
+##Repositorio contendo a estratégia conhecida como:
+
 <h1>Long & Short</h1>
 
 <p>A estratégia Long & Short define-se como uma estratégia de uma operação casada, no qual dois ativos correlacionados são mantidos um em uma posição vendida e outro em uma comprada, no intuito de obter-se um residual financeiro da operação após liquidá-la. A operação busca previnir o risco do mercado, isto é, uma neutralidade em relação aos índices de mercado do quais não influenciam na técnica, como  por exemplo, se um determinado índice representativo de papeis está perfomando de forma positiva ou negativa. Logo, busca-se uma correlação estatística entre dois ativos que oscilam de forma semelhante e o momento correto de comprar e vender os papeis.</p>
