@@ -1,4 +1,3 @@
-##Repositorio contendo a estratégia conhecida como:
 
 <h1>Long & Short</h1>
 
